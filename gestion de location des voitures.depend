@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1577057443 source:c:\users\dell\desktop\gestion de location des voitures\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1581920120 source:c:\users\hp\documents\gestion de location des voitures\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
